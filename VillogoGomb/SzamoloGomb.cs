@@ -8,7 +8,7 @@ namespace VillogoGomb
 {
     internal class SzamoloGomb : SzinezodoGomb
     {
-        int szam = 1;
+        int szam = 0;
         public SzamoloGomb()
         {
             Width = 20;
