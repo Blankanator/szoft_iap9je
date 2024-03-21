@@ -1,0 +1,17 @@
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\KigyosJatek.csproj.AssemblyReference.cache
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\KigyosJatek.Form1.resources
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\KigyosJatek.csproj.GenerateResource.cache
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\KigyosJatek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\KigyosJatek.AssemblyInfoInputs.cache
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\KigyosJatek.AssemblyInfo.cs
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\KigyosJatek.csproj.CoreCompileInputs.cache
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\bin\Debug\net6.0-windows\KigyosJatek.exe
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\bin\Debug\net6.0-windows\KigyosJatek.deps.json
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\bin\Debug\net6.0-windows\KigyosJatek.runtimeconfig.json
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\bin\Debug\net6.0-windows\KigyosJatek.dll
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\bin\Debug\net6.0-windows\KigyosJatek.pdb
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\KigyosJatek.dll
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\refint\KigyosJatek.dll
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\KigyosJatek.pdb
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\KigyosJatek.genruntimeconfig.cache
+C:\Users\iap9je\source\repos\KigyosJatek\KigyosJatek\obj\Debug\net6.0-windows\ref\KigyosJatek.dll
