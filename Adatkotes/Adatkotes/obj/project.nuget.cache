@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wydbJHSpaLQmkSz7TUIXAptYD1ALF8Z0HL0KCoRExtBzQFkF+xcPrF7sACQVQ6Tu28VvP8sZGd+JDGf3BVLcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iap9je\\source\\repos\\Adatkotes\\Adatkotes\\Adatkotes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iap9je\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
