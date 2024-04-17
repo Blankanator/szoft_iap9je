@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRUrqp3lec1p6DPrPX8Gae8dN6ZEHQySsDRvuvb3v3G6/uFHUDOGYflM6E2EXWBu3E5xKC1s87E9u/oYPFoXiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rendszergazda\\source\\repos\\WinFormsApp19\\WinFormsApp19\\WinFormsApp19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rendszergazda\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
